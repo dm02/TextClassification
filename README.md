@@ -36,6 +36,8 @@ The final step in the text classification framework is to train a classifier usi
 - Extreme Gradient Boost (Popular, fast and accurate. Used for the purpose of comparison)
     
  ## How to run
- Download the repository. It contains the input data file and required trained model files along with the source code.
+ - Download the repository. It contains the input data file and required trained model files along with the source code.
  
- Run the .ipynb file from the source directory to see the performance of test set on different type feature and model. At the end it asks to enetr a text for classification. 
+ - ```cd source/```
+ - ```jupyter notebook```  (This launches the jupyter notebook)
+ - Now open the TextClassification.ipynb file and click on run all. This shows the performance of test set on different type feature and model. At the end it asks to enetr a text for classification. 
