@@ -38,4 +38,4 @@ The final step in the text classification framework is to train a classifier usi
  ## How to run
  Download the repository. It contains the input data file and required trained model files.
  
- Run the .ipynb file to see the performance of test set on different type feature and model. At the end it asks to enetr a text for classification. 
+ Run the .ipynb file from the source directory to see the performance of test set on different type feature and model. At the end it asks to enetr a text for classification. 
